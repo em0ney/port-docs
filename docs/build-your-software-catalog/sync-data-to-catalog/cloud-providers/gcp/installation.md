@@ -352,7 +352,7 @@ If you want the integration to collect resources from multiple projects/folders 
 
 <img src='/img/build-your-software-catalog/sync-data-to-catalog/cloud-providers/gcp/permissions_menu.png' width='50%' border='1px' /> <br/><br/>
 
-8. Click on `ADD PRINCIPLE`
+8. Click on `ADD PRINCIPAL`
 
 9.  Here, Enter your's or your service account's email, and grant it your newly created `Role`.
 
