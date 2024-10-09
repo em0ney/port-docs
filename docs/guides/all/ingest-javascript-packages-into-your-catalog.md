@@ -156,7 +156,8 @@ resources:
           properties:
             package: .item.key
             version: .item.value
-          relations: {}
+          relations:
+            service: .repo.name
 ```
 
 </details>
